@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dbf30e891673b46da91cd2ceda929197
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 54.1
+  assetPath: Assets/Oculus/Voice/Demo/Scripts/UIShapesDemo/ColorChangerEnums.cs
+  uploadId: 592719

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c36b839c8e5c64a36baf71e7e58d18a7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 54.1
+  assetPath: Assets/Oculus/Voice/Demo/Data/Chess Demo README.md
+  uploadId: 592719

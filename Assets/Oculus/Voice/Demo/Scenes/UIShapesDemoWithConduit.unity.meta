@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2fc1b9e88b4304e10851442811303589
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 54.1
+  assetPath: Assets/Oculus/Voice/Demo/Scenes/UIShapesDemoWithConduit.unity
+  uploadId: 592719
